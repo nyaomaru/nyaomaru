@@ -1,8 +1,24 @@
-- 👋 Hi, I’m @nyaomaru
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## About me
+
+Hi👋, I’m nyaomaru😺. Nice to meet you.
+
+I've worked as frontend engineer for seven years. And I've worked as full remote for four and half years.
+
+I love react and Vue and catnip!
+
+## My skills
+
+[![My skills](https://skillicons.dev/icons?i=ts,js,react,redux,nextjs,vue,html,css,sass,java,kotlin,swift,py,php,npm,yarn,jest,tailwind,cypress,selenium,jenkins,vite,webpack,babel,gulp,rollup,aws,azure,git,github,gitlab,bitbucket,,docker,kubernetes,vscode,eclipse,idea,sublime,figma)](https://skillicons.dev)
+
+## Github status
+
+I had used company in house account about github, gitlab and bitbucket.
+
+It's just only the tip of an iceberg.🐈
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyaomaru)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nyaomaru)](https://github.com/nyaomaru/github-profile-trophy)
 
 <!---
 nyaomaru/nyaomaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
