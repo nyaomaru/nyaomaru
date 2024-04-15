@@ -8,7 +8,18 @@ I love react and Vue and catnip!
 
 ## My skills
 
-[![My skills](https://skillicons.dev/icons?i=ts,js,react,redux,nextjs,vue,html,css,sass,java,kotlin,swift,py,php,npm,yarn,jest,tailwind,cypress,selenium,jenkins,vite,webpack,babel,gulp,rollup,aws,azure,git,github,gitlab,bitbucket,docker,kubernetes,vscode,eclipse,idea,sublime,figma)](https://skillicons.dev)
+### Language
+
+[![My skills](https://skillicons.dev/icons?i=ts,js,html,css,java,kotlin,swift,py,php)](https://skillicons.dev)
+
+### Framework
+
+[![My skills](https://skillicons.dev/icons?i=react,redux,nextjs,vue,tailwind,spring)](https://skillicons.dev)
+
+### Library and Dev tools etc
+
+[![My skills](https://skillicons.dev/icons?i=npm,yarn,jest,cypress,selenium,jenkins,vite,webpack,babel,gulp,rollup,aws,azure,git,github,gitlab,bitbucket,docker,kubernetes,vscode,eclipse,idea,sublime,figma)](https://skillicons.dev)
+
 
 ## Github status
 
