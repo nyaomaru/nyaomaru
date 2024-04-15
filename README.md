@@ -20,13 +20,15 @@ I love React and Vue and catnip!
 
 [![My skills](https://skillicons.dev/icons?i=npm,yarn,jest,cypress,selenium,jenkins,vite,webpack,babel,gulp,rollup,aws,azure,git,github,gitlab,bitbucket,docker,vscode,eclipse,idea,sublime,figma)](https://skillicons.dev)
 
-## Github status
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyaomaru&hide_progress=true)
+
+<!-- ## Github status
 
 I had used company in house account about github, gitlab and bitbucket.🐈
 
 It's just only the tip of an iceberg.⛄
 
-[![Anurag's GitHub stats](https://github-readme-stats-clone-nyaomaru.vercel.app/api?username=nyaomaru)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-clone-nyaomaru.vercel.app/api?username=nyaomaru)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!---
 nyaomaru/nyaomaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
