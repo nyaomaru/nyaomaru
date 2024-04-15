@@ -4,7 +4,7 @@ Hi👋, I’m nyaomaru😺. Nice to meet you.
 
 I've worked as frontend engineer for seven years. And I've worked as full remote for four and half years.
 
-I love react and Vue and catnip!
+I love React and Vue and catnip!
 
 ## My skills
 
@@ -18,8 +18,7 @@ I love react and Vue and catnip!
 
 ### Library and Dev tools etc
 
-[![My skills](https://skillicons.dev/icons?i=npm,yarn,jest,cypress,selenium,jenkins,vite,webpack,babel,gulp,rollup,aws,azure,git,github,gitlab,bitbucket,docker,kubernetes,vscode,eclipse,idea,sublime,figma)](https://skillicons.dev)
-
+[![My skills](https://skillicons.dev/icons?i=npm,yarn,jest,cypress,selenium,jenkins,vite,webpack,babel,gulp,rollup,aws,azure,git,github,gitlab,bitbucket,docker,vscode,eclipse,idea,sublime,figma)](https://skillicons.dev)
 
 ## Github status
 
