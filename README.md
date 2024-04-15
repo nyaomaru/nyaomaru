@@ -20,7 +20,7 @@ I love React and Vue and catnip!
 
 [![My skills](https://skillicons.dev/icons?i=npm,yarn,jest,cypress,selenium,jenkins,vite,webpack,babel,gulp,rollup,aws,azure,git,github,gitlab,bitbucket,docker,vscode,eclipse,idea,sublime,figma)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyaomaru&hide_progress=true)
+![Top Langs](https://github-readme-stats-clone-nyaomaru.vercel.app/api/top-langs/?username=nyaomaru&hide_progress=true)
 
 <!-- ## Github status
 
