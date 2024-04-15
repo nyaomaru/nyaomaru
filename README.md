@@ -16,9 +16,11 @@ I had used company in house account about github, gitlab and bitbucket.🐈
 
 It's just only the tip of an iceberg.⛄
 
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={nyaomaru}&theme={2077}
+
 [![Anurag's GitHub stats](https://github-readme-stats-clone-nyaomaru.vercel.app/api?username=nyaomaru)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nyaomaru)](https://github.com/nyaomaru/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=nyaomaru)](https://github.com/nyaomaru/github-profile-trophy) -->
 
 <!---
 nyaomaru/nyaomaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
