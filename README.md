@@ -6,6 +6,12 @@ I've worked as frontend engineer for seven years. And I've worked as full remote
 
 I love React and Vue and catnip!
 
+📘 I also write technical articles:
+
+- [Zenn](https://zenn.dev/nyaomaru)
+
+- [Qiita](https://qiita.com/nyaomaru)
+
 ## My skills
 
 ### Language
