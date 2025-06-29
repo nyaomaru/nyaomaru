@@ -1,30 +1,28 @@
 ## About me
 
-Hi👋, I’m nyaomaru😺. Nice to meet you.
+Hi, I’m **Nyaomaru** 😺 Nice to meet you.
 
-I've worked as frontend engineer for seven years. And I've worked as full remote for four and half years.
+I'm a frontend engineer with over 7 years of experience, currently working fully remotely.
 
-I love React and Vue and catnip!
+I love **React**, **Vue**, and a little bit of **catnip**!!!
 
 📘 I also write technical articles:
 
 - [Zenn](https://zenn.dev/nyaomaru)
 
-- [Qiita](https://qiita.com/nyaomaru)
-
 ## My skills
 
-### Language
+### 🚀 Languages
 
-[![My skills](https://skillicons.dev/icons?i=ts,js,html,css,java,kotlin,swift,py,php)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=ts,js,html,css,java,php,py)](https://skillicons.dev)
 
-### Framework
+### 🧩 Frameworks & Libraries
 
-[![My skills](https://skillicons.dev/icons?i=react,redux,nextjs,vue,tailwind,spring)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=react,redux,nextjs,vue,nuxtjs,tailwind,spring)](https://skillicons.dev)
 
-### Library and Dev tools etc
+### 🛠 Tools & Platforms
 
-[![My skills](https://skillicons.dev/icons?i=npm,yarn,jest,cypress,selenium,jenkins,vite,webpack,babel,gulp,rollup,aws,azure,git,github,gitlab,bitbucket,docker,vscode,eclipse,idea,sublime,figma)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=npm,yarn,pnpm,bun,jest,cypress,vite,webpack,babel,gulp,rollup,docker,sublime,figma)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats-clone-nyaomaru.vercel.app/api/top-langs/?username=nyaomaru&hide_progress=true)
 
