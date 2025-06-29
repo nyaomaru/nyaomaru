@@ -1,5 +1,7 @@
 ## About me
 
+<img src="https://github.com/nyaomaru/nyaomaru/blob/main/nyaomaru.gif?raw=true" alt="Walking Nyaomaru" />
+
 Hi, I’m **Nyaomaru** 😺 Nice to meet you.
 
 I'm a frontend engineer with over 7 years of experience, currently working fully remotely.
