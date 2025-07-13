@@ -12,6 +12,10 @@ I love **React**, **Vue**, and a little bit of **catnip**!!!
 
 - [Zenn](https://zenn.dev/nyaomaru)
 
+🐈 My portfolio side:
+
+[Portfolio](https://portfolio-nyaomaru.vercel.app/)
+
 ## My skills
 
 ### 🚀 Languages
