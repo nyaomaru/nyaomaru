@@ -10,6 +10,7 @@ I love **React**, **Vue**, and a little bit of **catnip**!!!
 
 📘 I also write technical articles:
 
+- [Dev.to](https://dev.to/nyaomaru)
 - [Zenn](https://zenn.dev/nyaomaru)
 
 🐈 My portfolio site:
