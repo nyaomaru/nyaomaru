@@ -10,19 +10,19 @@ I love **React**, **Vue**, and a little bit of **catnip**!!!
 
 📘 I also write technical articles:
 
-- Dev.to
+Dev.to
 
 <a href="https://dev.to/nyaomaru">
-  <img height="40" alt="nyaomaru web  icon text _GitHub button Dev to" src="https://github.com/user-attachments/assets/e11c8a53-5361-4353-b9f7-e0786a5bb8fc" />
+  <img height="43" alt="nyaomaru web  icon text _GitHub button Dev to" src="https://github.com/user-attachments/assets/e11c8a53-5361-4353-b9f7-e0786a5bb8fc" />
 </a>
 
-- Zenn
+Zenn
 
 <a href="https://zenn.dev/nyaomaru">
-  <img height="40" alt="nyaomaru web  icon text _GitHub button Zenn" src="https://github.com/user-attachments/assets/2cf78fcb-3ebc-4226-98d3-1c82dd92d13f" />
+  <img height="43" alt="nyaomaru web  icon text _GitHub button Zenn" src="https://github.com/user-attachments/assets/2cf78fcb-3ebc-4226-98d3-1c82dd92d13f" />
 </a>
 
-### 🐈 My portfolio site:
+🐈 My portfolio site:
 
 <a href="https://portfolio-nyaomaru.vercel.app/">
   <img height="40" alt="nyaomaru web  icon text _GitHub button  Portfolio" src="https://github.com/user-attachments/assets/2316e4e6-a07c-4240-aee0-69371aa47cc2" />
