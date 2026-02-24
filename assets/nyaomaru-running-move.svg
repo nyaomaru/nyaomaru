@@ -7,9 +7,20 @@
     <animateTransform
       attributeName="transform"
       type="translate"
+      additive="sum"
       dur="7.0s"
       repeatCount="indefinite"
-      values="-150 0; 900 0"
+      keyTimes="0; 0.285714; 1"
+      values="0 0; 300 0; 300 0"
+      calcMode="linear"/>
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      additive="sum"
+      dur="7.0s"
+      repeatCount="indefinite"
+      keyTimes="0; 0.428571; 1"
+      values="0 0; 0 0; 600 0"
       calcMode="linear"/>
   </g>
 </svg>
