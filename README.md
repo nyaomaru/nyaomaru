@@ -8,6 +8,10 @@ I'm a frontend engineer with over 7 years of experience, currently working fully
 
 I love **React**, **Vue**, and a little bit of **catnip**!!!
 
+<a href="https://nyaomaru-portfolio.vercel.app/game">
+  <img height="36" alt="nyaomaru game button" src="https://github.com/user-attachments/assets/68e43d3b-3435-4b8f-a243-754c950b5bc7" />
+</a>
+
 ### 📘 I also write technical articles:
 
 Dev.to
@@ -24,7 +28,7 @@ Zenn
 
 ### 🐈 My portfolio site:
 
-<a href="https://portfolio-nyaomaru.vercel.app/">
+<a href="https://nyaomaru-portfolio.vercel.app/">
   <img height="36" alt="nyaomaru web_GitHub button  Portfolio" src="https://github.com/user-attachments/assets/148c6e3e-350e-4f6d-8f19-49e321ac34e1" />
 </a>
 
