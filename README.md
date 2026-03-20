@@ -6,8 +6,6 @@ Hi, I’m **Nyaomaru** 😺 Nice to meet you.
 
 I'm a frontend engineer with over 7 years of experience, currently working fully remotely.
 
-Building code simpler and more understandable architecture.
-
 I love **React**, **Vue**, and a little bit of **catnip**!!!
 
 <a href="https://nyaomaru-portfolio.vercel.app/game">
