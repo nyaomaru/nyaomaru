@@ -1,6 +1,6 @@
 ## About me
 
-<img width="100%" height="120" src="https://github.com/nyaomaru/nyaomaru/blob/main/assets/nyaomaru-crab.svg?raw=true" alt="Moving Nyaomaru" />
+<img width="100%" height="120" src="https://github.com/nyaomaru/nyaomaru/blob/main/assets/nyaomaru-crab.gif?raw=true" alt="Moving Nyaomaru" />
 
 Hi, I’m **Nyaomaru** 😺 Nice to meet you.
 
