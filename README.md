@@ -8,6 +8,8 @@ I'm a frontend engineer with over 7 years of experience, currently working fully
 
 I love **React**, **Vue**, and a little bit of **catnip**!!!
 
+### 🎮 Let's play game - Run Away From Work
+
 <a href="https://nyaomaru-portfolio.vercel.app/game">
   <img height="36" alt="nyaomaru game button" src="https://github.com/user-attachments/assets/68e43d3b-3435-4b8f-a243-754c950b5bc7" />
 </a>
