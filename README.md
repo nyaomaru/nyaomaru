@@ -16,13 +16,9 @@ I love **React**, **Vue**, and a little bit of **catnip**!!!
 
 ### 📘 I also write technical articles:
 
-Dev.to
-
 <a href="https://dev.to/nyaomaru">
   <img height="36" alt="nyaomaru web_GitHub button Dev to" src="https://github.com/user-attachments/assets/b1a0f222-e541-4dd7-ae98-5d1d394adfb4" />
 </a>
-
-Zenn
 
 <a href="https://zenn.dev/nyaomaru">
   <img height="36" alt="nyaomaru web_GitHub button Zenn" src="https://github.com/user-attachments/assets/a737995d-bd43-4c12-8720-71e7069ca1e3" />
