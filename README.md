@@ -44,12 +44,6 @@ Zenn
 
 [![My skills](https://skillicons.dev/icons?i=react,redux,nextjs,vue,nuxtjs,tailwind,spring)](https://skillicons.dev)
 
-### 🛠 Tools & Platforms
-
-[![My skills](https://skillicons.dev/icons?i=npm,yarn,pnpm,bun,jest,cypress,vite,webpack,babel,gulp,rollup,docker,sublime,figma)](https://skillicons.dev)
-
-![Top Langs](https://github-readme-stats-clone-nyaomaru.vercel.app/api/top-langs/?username=nyaomaru&hide_progress=true)
-
 <!-- ## Github status
 
 I had used company in house account about github, gitlab and bitbucket.🐈
