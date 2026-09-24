@@ -16,11 +16,9 @@ I love **React**, **Vue**, and a little bit of **catnip**!!!
 
 ### 📘 I also write technical articles:
 
-<!-- DEV-FOLLOWERS-BADGE:START -->
 <a href="https://dev.to/nyaomaru">
-  <img height="36" alt="DEV follower count" src="https://img.shields.io/badge/DEV.to-followers-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  <img height="36" alt="DEV follower count" src="./assets/dev-followers.svg" />
 </a>
-<!-- DEV-FOLLOWERS-BADGE:END -->
 
 ### 🐈 My portfolio site:
 
