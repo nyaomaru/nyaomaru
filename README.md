@@ -20,12 +20,6 @@ I love **React**, **Vue**, and a little bit of **catnip**!!!
   <img height="36" alt="DEV follower count" src="./assets/dev-followers.svg?v=7353" />
 </a>
 
-### 🐈 My portfolio site:
-
-<a href="https://nyaomaru-portfolio.vercel.app/">
-  <img height="36" alt="nyaomaru web_GitHub button  Portfolio" src="https://github.com/user-attachments/assets/148c6e3e-350e-4f6d-8f19-49e321ac34e1" />
-</a>
-
 ## My skills
 
 ### 🚀 Languages
