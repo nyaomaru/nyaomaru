@@ -124,6 +124,8 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${
 `;
 
 const outputPath = "assets/dev-followers.svg";
+const readmePath = "README.md";
+
 await mkdir("assets", { recursive: true });
 
 let currentSvg = "";
@@ -139,4 +141,26 @@ if (currentSvg !== svg) {
   console.log(`Updated DEV follower badge to ${formattedCount}.`);
 } else {
   console.log("DEV follower badge is already up to date.");
+}
+
+const readme = await readFile(readmePath, "utf8");
+const badgeSourcePattern =
+  /(\.\/assets\/dev-followers\.svg)(?:\?v=\d+)?/;
+const versionedBadgeSource =
+  `./assets/dev-followers.svg?v=${followerCount}`;
+
+if (!badgeSourcePattern.test(readme)) {
+  throw new Error("DEV follower badge reference was not found in README.md.");
+}
+
+const nextReadme = readme.replace(
+  badgeSourcePattern,
+  versionedBadgeSource,
+);
+
+if (nextReadme !== readme) {
+  await writeFile(readmePath, nextReadme);
+  console.log(`Updated README badge version to ${followerCount}.`);
+} else {
+  console.log("README badge version is already up to date.");
 }

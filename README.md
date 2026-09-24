@@ -17,7 +17,7 @@ I love **React**, **Vue**, and a little bit of **catnip**!!!
 ### 📘 I also write technical articles:
 
 <a href="https://dev.to/nyaomaru">
-  <img height="36" alt="DEV follower count" src="./assets/dev-followers.svg" />
+  <img height="36" alt="DEV follower count" src="./assets/dev-followers.svg?v=7353" />
 </a>
 
 ### 🐈 My portfolio site:
