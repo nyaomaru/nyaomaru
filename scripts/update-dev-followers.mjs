@@ -81,6 +81,23 @@ const shellPoints = [
   .map(([x, y]) => `${x},${y}`)
   .join(" ");
 
+const fillPoints = [
+  [step * 3, step],
+  [width - step * 3, step],
+  [width - step * 3, step * 2],
+  [width - step * 2, step * 2],
+  [width - step * 2, height - step * 2],
+  [width - step * 3, height - step * 2],
+  [width - step * 3, height - step],
+  [step * 3, height - step],
+  [step * 3, height - step * 2],
+  [step * 2, height - step * 2],
+  [step * 2, step * 2],
+  [step * 3, step * 2],
+]
+  .map(([x, y]) => `${x},${y}`)
+  .join(" ");
+
 const escapeXml = (value) =>
   value
     .replaceAll("&", "&amp;")
@@ -92,10 +109,11 @@ const escapeXml = (value) =>
 const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" role="img" aria-label="${escapeXml(label)}">
   <title>${escapeXml(label)}</title>
   <polygon points="${shellPoints}" fill="#7caa4a" shape-rendering="crispEdges"/>
+  <polygon points="${fillPoints}" fill="#000000" shape-rendering="crispEdges"/>
   <text
     x="${width / 2}"
     y="${height / 2 + 0.5}"
-    fill="#171917"
+    fill="#7caa4a"
     font-family="system-ui,-apple-system,'Segoe UI',sans-serif"
     font-size="13"
     font-weight="700"
