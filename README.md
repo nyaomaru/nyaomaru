@@ -36,6 +36,9 @@ I love **React**, **Vue**, and a little bit of **catnip**!!!
 
 [![My skills](https://skillicons.dev/icons?i=react,redux,nextjs,vue,nuxtjs,tailwind,spring)](https://skillicons.dev)
 
+
+<a href="https://u8views.com/github/nyaomaru"><img src="https://u8views.com/api/v1/github/profiles/90489696/views/day-week-month-total-count.svg"></a>
+
 <!-- ## Github status
 
 I had used company in house account about github, gitlab and bitbucket.🐈
