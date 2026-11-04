@@ -37,4 +37,32 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/dev-followers.svg README.md
           git commit -m "chore: update DEV follower badge"
-          git push
+
+          # A valid push can be rejected with "remote: Internal Server Error"
+          # while GitHub Git Operations are degraded. The commit stays local
+          # until the ref update is accepted, so retry that error only.
+          max_attempts=6
+          delay=10
+          for attempt in $(seq 1 "$max_attempts"); do
+            if output=$(git push origin main 2>&1); then
+              printf '%s\n' "$output"
+              exit 0
+            else
+              status=$?
+              printf '%s\n' "$output"
+              if ! printf '%s\n' "$output" | grep -q "Internal Server Error"; then
+                echo "git push failed with a non-retryable error."
+                exit "$status"
+              fi
+              if [ "$attempt" -eq "$max_attempts" ]; then
+                echo "git push failed after ${attempt} attempts."
+                exit "$status"
+              fi
+              echo "GitHub returned Internal Server Error (attempt ${attempt}/${max_attempts}). Retrying in ${delay}s."
+              sleep "$delay"
+              delay=$((delay * 2))
+              if [ "$delay" -gt 90 ]; then
+                delay=90
+              fi
+            fi
+          done
