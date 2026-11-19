@@ -11,13 +11,13 @@ I love **React**, **Vue**, and a little bit of **catnip**!!!
 ### 🎮 Let's play game - Run Away From Work:
 
 <a href="https://nyaomaru-portfolio.vercel.app/game">
-  <img height="36" alt="nyaomaru game button" src="https://github.com/user-attachments/assets/68e43d3b-3435-4b8f-a243-754c950b5bc7" />
+  <img height="36" alt="Game" src="./assets/game.svg" />
 </a>
 
 ### 🐈 My portfolio site:
 
 <a href="https://nyaomaru-portfolio.vercel.app/">
-  <img height="36" alt="nyaomaru web_GitHub button  Portfolio" src="https://github.com/user-attachments/assets/b6adbca1-9f62-4c4a-ab38-87e948687945" />
+  <img height="36" alt="Portfolio" src="./assets/portfolio.svg" />
 </a>
 
 ### 📘 I also write technical articles:
