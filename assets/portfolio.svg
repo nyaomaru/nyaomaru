@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="36" viewBox="0 0 110 36" role="img" aria-label="Portfolio">
+  <title>Portfolio</title>
+  <polygon points="9,0 101,0 101,3 104,3 104,6 107,6 107,30 104,30 104,33 101,33 101,36 9,36 9,33 6,33 6,30 3,30 3,6 6,6 6,3 9,3" fill="#7caa4a" shape-rendering="crispEdges"/>
+  <polygon points="9,3 101,3 101,6 104,6 104,30 101,30 101,33 9,33 9,30 6,30 6,6 9,6" fill="#000000" shape-rendering="crispEdges"/>
+  <text x="55.0" y="18.5" fill="#7caa4a" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="13" font-weight="700" text-anchor="middle" dominant-baseline="middle">Portfolio</text>
+</svg>
