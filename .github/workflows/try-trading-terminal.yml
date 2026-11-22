@@ -1,0 +1,26 @@
+name: Try GitHub Trading Terminal
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  terminal:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: hanzlabaig-dev/gh-trading-terminal@fac4bd65b8b210ea5bc72af1756c58f452aaac12
+        with:
+          username: nyaomaru
+          days: 90
+          theme: tradingview
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit: false
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: trading-terminal
+          path: assets/
